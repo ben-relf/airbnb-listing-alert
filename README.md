@@ -2,8 +2,9 @@
 No accomodation or only over-priced rubbish available for when you need?
 Get alerted when new listings appear on Airbnb.
 
-Uses Selenium and BeautifulSoup for page scraping
-Email for notifications through gmail.
+- Uses Selenium and BeautifulSoup for page scraping.
+- Email for notifications through gmail.
+- Old results persisted between executions in a csv file.
 
 Can be adjusted for other sites. You just need to find the appropriate html tags to identify the list, list item and name.
 
