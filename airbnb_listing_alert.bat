@@ -1,0 +1,1 @@
+C:\Users\bjrel\Documents\python\listing-catcher\venv\Scripts\python.exe C:\Users\bjrel\Documents\python\listing-catcher\airbnb_listing_alert.py

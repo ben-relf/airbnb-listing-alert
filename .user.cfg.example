@@ -1,0 +1,41 @@
+[user_config]
+driver_location = C:\\temp\\chromedriver\\chromedriver.exe
+email_from = bjdev06@gmail.com
+email_to  = bjrelf@gmail.com
+email_user = bjdev06@gmail.com
+email_password = jQte@BE2%%$
+
+[site_0_config]
+site = airbnb
+base_url = https://www.airbnb.com.au
+search_url = https://www.airbnb.com.au/s/...
+list_tag = div
+list_attribute_name = itemprop
+list_attribute_value = itemList
+item_tag = div
+item_attribute_name = itemprop
+item_attribute_value = itemListElement
+name_tag = div
+name_attribute_name = class
+name_attribute_value = _bzh5lkq
+price_tag = span
+price_attribute_name = class
+price_attribute_value = _1gi6jw3f
+price_attribute_value1 = _1p7iugi
+
+[site_1_config]
+site = vrbo
+base_url = https://www.vrbo.com
+search_url = https://www.vrbo.com/en-au/search/keywords:...
+list_tag = div
+list_attribute_name = class
+list_attribute_value = HitCollection
+item_tag = div
+item_attribute_name = class
+item_attribute_value = Hit
+name_tag = h2
+name_attribute_name = class
+name_attribute_value = HitInfo__headline
+price_tag = span
+price_attribute_name = class
+price_attribute_value = DualPrice__primary
